@@ -119,9 +119,9 @@ server {
 }
 ```
 ##### screenshots
-![alt text](https://github.com/LakshmiDevopsTech/docker-compose-wordpress-Nginx/blob/main/docker-compose.PNG)
-![alt_text](https://github.com/LakshmiDevopsTech/docker-compose-wordpress-Nginx/blob/main/docker-compose1.PNG)
-![alt_text](https://github.com/LakshmiDevopsTech/docker-compose-wordpress-Nginx/blob/main/container.PNG)
+![alt text](https://i.ibb.co/kKj249G/docker-compose.png)
+![alt_text](https://i.ibb.co/8rMxfwK/docker-compose1.png)
+![alt_text](https://i.ibb.co/D7Z6pR9/container.png)
 
 
 ## Conclusion
